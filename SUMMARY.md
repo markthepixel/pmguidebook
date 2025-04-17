@@ -1,16 +1,18 @@
 # Table of contents
 
-## Getting Started
+## Test Getting Started
 
-* [Quickstart](README.md)
-  * [Publish your docs](getting-started/quickstart/publish-your-docs/README.md)
-    * [Welcome](getting-started/quickstart/publish-your-docs/readme.md)
+* [Test Quickstart](README.md)
 
-## Basics
+## Group 1
 
-* [Editor](basics/editor/README.md)
-  * [Markdown](basics/editor/markdown/README.md)
-    * [Images & media](basics/editor/markdown/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks/README.md)
-  * [OpenAPI](basics/interactive-blocks/openapi.md)
-  * [Integrations](basics/interactive-blocks/integrations.md)
+* [introduction\_to\_product\_management](group-1/introduction_to_product_management/README.md)
+  * [what\_is\_a\_product\_manager](group-1/introduction_to_product_management/what_is_a_product_manager/README.md)
+    * [roles\_and\_responsibilities](group-1/introduction_to_product_management/what_is_a_product_manager/roles_and_responsibilities.md)
+    * [product\_mindset](group-1/introduction_to_product_management/what_is_a_product_manager/product_mindset.md)
+  * [product\_team\_structures](group-1/introduction_to_product_management/product_team_structures/README.md)
+    * [idk page](group-1/introduction_to_product_management/product_team_structures/idk-page.md)
+
+***
+
+* [people\_skills\_influence\_without\_authority](people_skills_influence_without_authority.md)

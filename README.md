@@ -2,14 +2,14 @@
 icon: bullseye-arrow
 ---
 
-# Quickstart
+# Test Quickstart
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](basics/editor/) section to learn more.
+Want to learn about writing content from scratch? Head to the [Basics](broken-reference) section to learn more.
 {% endhint %}
 
 ### Import
