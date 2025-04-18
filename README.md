@@ -1,13 +1,32 @@
-# A Note From The Author
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
 
-Over the past two years, I have had the privilege of mentoring new and aspiring Product Managers. Throughout this journey, I've observed a significant gap in the resources available to those seeking to excel in this dynamic and challenging role. While there are countless courses and guides on how to land a job as a Product Manager, few delve into the core skills required to thrive in the role. Even fewer provide detailed, real-world examples that illuminate these skills in action.
+# Welcome
 
-This guide is my response to that gap and is designed to go beyond the interview preparation and job-hunting advice that saturates the market. Instead, it focuses on the full spectrum of skills that underpin successful product management. From strategic thinking to cross-functional collaboration, from customer understanding to data-driven decision-making, this guide explores the multifaceted nature of the Product Manager's role.
+## Welcome to the Product Manager's Skill Guide!
 
-Each section of this guide includes detailed examples providing a practical context for the skills and concepts discussed. These examples serve as a bridge between theory and practice, helping you understand what a Product Manager does and how they do it.
+This guide is designed to walk you through the _main skills_ required to be a great Product Manager (PM).
 
-I hope this guide will serve as a comprehensive foundation for anyone aspiring to become a Product Manager. Whether you're just starting your journey or looking to refine your existing skills, I believe understanding and mastering these core skills is key to long-term success in product management.
+By reading through (or skipping around), you'll get a taste of everything that goes into being a PM. Each section is simple enough to understand the purpose of the skill, while also giving you quick links to go and do your own additional research.
 
-So, whether you're preparing for your first Product Manager role or looking to level up your skills, I invite you to dig into this guide, explore the breadth and depth of what it means to be a Product Manager and use this knowledge as a springboard for your career. I hope it inspires you to chase your dream and equips you with the tools you need to become a great Product Manager.
+**By no means is this guide perfect** — There is no right or wrong here. As you'll quickly find, there's a many schools of thought around Product Management. Additionally, how the Product Manager role works across various companies and industries changes. It's best to think of this guide as the perfect overview and jumping off point for the various skills required in Product Management.&#x20;
 
-If you see something, please consider [contributing](prelude/contribute.md) to improve this guide.
+If you see a grammatical mistake, feel there's a better approach, or see something that's missing, I encourage you to visit the [Contributions](prelude/contribute.md) page to help update the content.
+
+### Guide Sections
+
+The guide is broken down into four major Categories filled with Section and Topics. The Topic pages give you the breakdown of the skill, while the Sections helps to organize everything for recall.
+
+* [Prelude – Author Note & How To Use](broken-reference)
+* [Introduction to Product Management](introduction/intro-to-product-management.md)
