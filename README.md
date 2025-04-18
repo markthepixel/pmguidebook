@@ -26,7 +26,11 @@ If you see a grammatical mistake, feel there's a better approach, or see somethi
 
 ### Guide Sections
 
-The guide is broken down into four major Categories filled with Section and Topics. The Topic pages give you the breakdown of the skill, while the Sections helps to organize everything for recall.
+Not including the Prelude, the PM's Skill Guide guide is broken down into four major Categories filled with Section and Topics. The Topic pages give you the breakdown of the skill, while the Sections helps to organize everything for recall.
 
 * [Prelude – Author Note & How To Use](broken-reference)
 * [Introduction to Product Management](introduction/introduction-product-management.md)
+* [People: Influence Without Authority](people-skills/people-influence-without-authority.md)
+* [Process: Effective Product Management](process-skills/process-effective-product-management.md)
+* [Knowledge: Research & Analysis](knowledge-skills/knowledge-research-and-analysis.md)
+
