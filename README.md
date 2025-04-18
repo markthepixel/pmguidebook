@@ -22,7 +22,7 @@ By reading through (or skipping around), you'll get a taste of everything that g
 
 **By no means is this guide perfect** — There is no right or wrong here. As you'll quickly find, there's a many schools of thought around Product Management. Additionally, how the Product Manager role works across various companies and industries changes. It's best to think of this guide as the perfect overview and jumping off point for the various skills required in Product Management.&#x20;
 
-If you see a grammatical mistake, feel there's a better approach, or see something that's missing, I encourage you to visit the [Contributions](prelude/contribute.md) page to help update the content.
+If you see a grammatical mistake, feel there's a better approach, or see something that's missing, I encourage you to visit the [Contributions](prelude/contribute-content.md) page to help update the content.
 
 ### Guide Sections
 

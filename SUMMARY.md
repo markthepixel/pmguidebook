@@ -6,7 +6,7 @@
 
 * [A Note From The Author](<README (1).md>)
 * [How To Use This Guide](prelude/how-to-use-this-guide.md)
-* [Contribute](prelude/contribute.md)
+* [Contribute Content](prelude/contribute-content.md)
 
 ## Introduction
 
