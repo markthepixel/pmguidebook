@@ -29,4 +29,4 @@ If you see a grammatical mistake, feel there's a better approach, or see somethi
 The guide is broken down into four major Categories filled with Section and Topics. The Topic pages give you the breakdown of the skill, while the Sections helps to organize everything for recall.
 
 * [Prelude – Author Note & How To Use](broken-reference)
-* [Introduction to Product Management](introduction/intro-to-product-management.md)
+* [Introduction to Product Management](introduction/introduction-product-management.md)

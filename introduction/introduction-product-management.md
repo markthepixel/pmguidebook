@@ -1,4 +1,4 @@
-# Intro to Product Management
+# Introduction: Product Management
 
 This section provides an in-depth understanding of product management as a discipline. It's the foundation for the rest of the guide, and it's crucial for shaping your approach to the role and helping you navigate the complexities of being a Product Manager (PM).
 
