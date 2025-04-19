@@ -1,4 +1,20 @@
-# Process: Effective Product Management
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Overview
+
+## Effective Product Management
 
 Process skills are the methods and techniques that Product Managers use to guide a product from conception to launch and beyond. These skills encompass a wide range of activities, including strategic planning, discovery and validation, development execution, delivery, and continuous improvement. This section will delve into each of these areas, providing you with a comprehensive understanding of the processes involved in effective product management.
 

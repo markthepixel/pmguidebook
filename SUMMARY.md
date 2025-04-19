@@ -13,7 +13,7 @@
 
 ## Introduction <a href="#intro-to-product-management" id="intro-to-product-management"></a>
 
-* [Introduction: Product Management](intro-to-product-management/overview.md)
+* [Overview](intro-to-product-management/overview.md)
 * [What is a Product Manager?](intro-to-product-management/what-is-a-product-manager/README.md)
   * [Roles and Responsibilities of a Product Manager](intro-to-product-management/what-is-a-product-manager/roles-and-responsibilities-of-a-product-manager.md)
   * [The Product Mindset](intro-to-product-management/what-is-a-product-manager/the-product-mindset.md)
@@ -26,7 +26,7 @@
 
 ## People Skills
 
-* [People: Influence Without Authority](people-skills/overview.md)
+* [Overview](people-skills/overview.md)
 * [Communication](people-skills/communication/README.md)
   * [Knowing Your Audience](people-skills/communication/knowing-your-audience.md)
   * [Elements of Persuasion and Motivation](people-skills/communication/elements-of-persuasion-and-motivation.md)
@@ -48,7 +48,7 @@
 
 ## Process Skills
 
-* [Process: Effective Product Management](process-skills/overview.md)
+* [Overview](process-skills/overview.md)
 * [Strategy](process-skills/strategy/README.md)
   * [Objective Setting](process-skills/strategy/objective-setting.md)
   * [Prioritization](process-skills/strategy/prioritization.md)
@@ -77,7 +77,7 @@
 
 ## Knowledge Skills
 
-* [Knowledge: Research & Analysis](knowledge-skills/overview.md)
+* [Overview](knowledge-skills/overview.md)
 * [Understanding the Customer](knowledge-skills/understanding-the-customer/README.md)
   * [Customer Segmentation and Targeting](knowledge-skills/understanding-the-customer/customer-segmentation-and-targeting.md)
   * [User Research Methods](knowledge-skills/understanding-the-customer/user-research-methods.md)

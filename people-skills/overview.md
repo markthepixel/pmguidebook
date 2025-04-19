@@ -1,4 +1,20 @@
-# People: Influence Without Authority
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Overview
+
+## People Skills: Influence Without Authority
 
 People skills, often called interpersonal or soft skills, are crucial for Product Managers. As a Product Manager, you're at the intersection of various teams and stakeholders, making the ability to communicate, build relationships, and lead effectively is paramount to your role. These skills enable you to understand and empathize with others, collaborate effectively, and influence without authority.
 

@@ -1,4 +1,20 @@
-# Knowledge: Research & Analysis
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Overview
+
+## Knowledge Skills: Research & Analysis
 
 Knowledge skills in research and analysis provide the foundation for making informed decisions and strategies. These skills involve understanding the customer, making data-driven decisions, acquiring domain knowledge, and having a solid business understanding.
 
