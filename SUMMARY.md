@@ -4,29 +4,29 @@
 
 * [Welcome](README.md)
 * [Contribute](guidebook/contribute.md)
-* [How to Donate](guidebook/donate.md)
+* [Donate](guidebook/donate.md)
 
 ## Prelude
 
 * [A Note From The Author](prelude/author-note.md)
 * [How To Use This Guide](prelude/how-to-use.md)
 
-## Introduction
+## Introduction <a href="#intro-to-product-management" id="intro-to-product-management"></a>
 
-* [Introduction: Product Management](introduction/introduction-product-management.md)
-* [What is a Product Manager?](introduction/introduction-to-product-management/what-is-a-product-manager/README.md)
-  * [Roles and Responsibilities of a Product Manager](introduction/introduction-to-product-management/what-is-a-product-manager/roles-and-responsibilities-of-a-product-manager.md)
-  * [The Product Mindset](introduction/introduction-to-product-management/what-is-a-product-manager/the-product-mindset.md)
-  * [Understanding the Product Management Lifecycle](introduction/introduction-to-product-management/what-is-a-product-manager/understanding-the-product-management-lifecycle.md)
-  * [Different Types of Product Managers](introduction/introduction-to-product-management/what-is-a-product-manager/different-types-of-product-managers.md)
-* [Product Team Structures](introduction/introduction-to-product-management/product-team-structures/README.md)
-  * [Stakeholders, Leadership, and the Company](introduction/introduction-to-product-management/product-team-structures/stakeholders-leadership-and-the-company.md)
-  * [Cross-Functional Product Team](introduction/introduction-to-product-management/product-team-structures/cross-functional-product-team.md)
-  * [Differences between Project, Program, and Product Management](introduction/introduction-to-product-management/product-team-structures/differences-between-project-program-and-product-management.md)
+* [Introduction: Product Management](intro-to-product-management/overview.md)
+* [What is a Product Manager?](intro-to-product-management/what-is-a-product-manager/README.md)
+  * [Roles and Responsibilities of a Product Manager](intro-to-product-management/what-is-a-product-manager/roles-and-responsibilities-of-a-product-manager.md)
+  * [The Product Mindset](intro-to-product-management/what-is-a-product-manager/the-product-mindset.md)
+  * [Understanding the Product Management Lifecycle](intro-to-product-management/what-is-a-product-manager/understanding-the-product-management-lifecycle.md)
+  * [Different Types of Product Managers](intro-to-product-management/what-is-a-product-manager/different-types-of-product-managers.md)
+* [Product Team Structures](intro-to-product-management/product-team-structures/README.md)
+  * [Stakeholders, Leadership, and the Company](intro-to-product-management/product-team-structures/stakeholders-leadership-and-the-company.md)
+  * [Cross-Functional Product Team](intro-to-product-management/product-team-structures/cross-functional-product-team.md)
+  * [Differences between Project, Program, and Product Management](intro-to-product-management/product-team-structures/differences-between-project-program-and-product-management.md)
 
 ## People Skills
 
-* [People: Influence Without Authority](people-skills/people-influence-without-authority.md)
+* [People: Influence Without Authority](people-skills/overview.md)
 * [Communication](people-skills/communication/README.md)
   * [Knowing Your Audience](people-skills/communication/knowing-your-audience.md)
   * [Elements of Persuasion and Motivation](people-skills/communication/elements-of-persuasion-and-motivation.md)
@@ -51,7 +51,7 @@
 
 ## Process Skills
 
-* [Process: Effective Product Management](process-skills/process-effective-product-management.md)
+* [Process: Effective Product Management](process-skills/overview.md)
 * [Strategy](process-skills/strategy/README.md)
   * [Objective Setting](process-skills/strategy/objective-setting.md)
   * [Prioritization](process-skills/strategy/prioritization.md)
@@ -83,7 +83,7 @@
 
 ## Knowledge Skills
 
-* [Knowledge: Research & Analysis](knowledge-skills/knowledge-research-and-analysis.md)
+* [Knowledge: Research & Analysis](knowledge-skills/overview.md)
 * [Understanding the Customer](knowledge-skills/understanding-the-customer/README.md)
   * [Customer Segmentation and Targeting](knowledge-skills/understanding-the-customer/customer-segmentation-and-targeting.md)
   * [User Research Methods](knowledge-skills/understanding-the-customer/user-research-methods.md)
