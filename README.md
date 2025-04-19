@@ -16,7 +16,7 @@ layout:
 
 ## Welcome to the Product Manager's Guidebook!
 
-This guide is designed to walk you through the _main skills_ required to be a great Product Manager (PM).
+The free & open source guide that is designed to walk you through the _main skills_ required to be a great Product Manager (PM).
 
 By reading through (or skipping around), you'll get a taste of everything that goes into being a PM. Each section is simple enough to understand the purpose of the skill, while also giving you quick links to go and do your own additional research.
 
@@ -32,7 +32,7 @@ If you find this guide helpful, please consider making a [Donation](https://dona
 
 Not including the Prelude, the PM's Skill Guide guide is broken down into four major Categories filled with Section and Topics. The Topic pages give you the breakdown of the skill, while the Sections helps to organize everything for recall.
 
-* [Prelude – Author Note & How To Use](broken-reference/)
+* [Prelude – Author Note & How To Use](prelude/author-note.md)
 * [Introduction to Product Management](intro-to-product-management/overview.md)
 * [People: Influence Without Authority](people-skills/overview.md)
 * [Process: Effective Product Management](process-skills/overview.md)
