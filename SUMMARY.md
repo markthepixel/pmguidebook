@@ -1,13 +1,15 @@
 # Table of contents
 
+## Guidebook
+
 * [Welcome](README.md)
+* [Contribute](guidebook/contribute.md)
+* [How to Donate](guidebook/donate.md)
 
 ## Prelude
 
-* [A Note From The Author](<README (1).md>)
-* [How To Use This Guide](prelude/how-to-use-this-guide.md)
-* [Contribute Content](prelude/contribute.md)
-* [How to Donate](prelude/how-to-donate.md)
+* [A Note From The Author](prelude/author-note.md)
+* [How To Use This Guide](prelude/how-to-use.md)
 
 ## Introduction
 

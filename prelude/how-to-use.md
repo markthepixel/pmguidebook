@@ -14,4 +14,4 @@ Finally, each topic concludes with a list of ‘Related Research Topics’. Thes
 
 **Remember, there's no right or wrong way to use this guide.** It's designed to be a flexible resource that you can return to time and time again. Whether you're skimming for a quick overview, diving deep into a specific topic, or looking up advice for a situation you're facing in your role, this guide is here to support you on your product management journey.
 
-Lastly, if you see something, please consider [contributing](contribute.md) to improve this guide.
+Lastly, if you see something, please consider [contributing](../guidebook/contribute.md) to improve this guide.

@@ -1,4 +1,4 @@
-# Contribute Content
+# Contribute
 
 This guide was written as other methodologies and approaches proved successful. As such, it's in everyones best interest for this to be a living document that is improved and updated regularly.
 
@@ -22,19 +22,15 @@ Through the power of GitHub, any one can make changes to this website.
 
 #### Raise an Issue
 
-If you're not familiar with editing in Github or Markdown, you can still contribute by creating an issue. You can think of this like a Jira or Linear ticket, but in GitHub. [**Raise an Issue.**](https://github.com/markthepixel/PMSG/issues)
+If you're not familiar with editing in Github or Markdown, you can still contribute by creating an issue. You can think of this like a Jira or Linear ticket, but in GitHub. [**Raise an Issue.**](https://github.com/markthepixel/pmguidebook/issues)
 
 #### Experienced with GitHub
 
 If you're familiar with Github, feel free to open a Pull Request (PR) in any way you see fit.\
-[**View Repo.**](https://github.com/markthepixel/PMSG/tree/main)
-
-
+[**View Repo.**](https://github.com/markthepixel/pmguidebook)
 
 ### Donations
 
-And, if you find this guide helpful, please [consider donating](https://donate.stripe.com/5kAbK3bqOeekgqkaEI) – This guide was a labor of love with the goal of being open source and an ever evolving, living document. That being said, I poured hundreds of hours into this guide, therefore donations are appreciated.
-
-
+And, if you find this guide helpful, please [consider donating](https://donate.stripe.com/5kAbK3bqOeekgqkaEI) – This guide was a labor of love with the goal of being open source and an ever evolving, living document. That being said, I poured hundreds of hours into this guide, therefore donations are appreciated.
 
 **Thank you** :relaxed:

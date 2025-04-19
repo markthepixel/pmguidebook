@@ -10,4 +10,4 @@ I hope this guide will serve as a comprehensive foundation for anyone aspiring t
 
 So, whether you're preparing for your first Product Manager role or looking to level up your skills, I invite you to dig into this guide, explore the breadth and depth of what it means to be a Product Manager and use this knowledge as a springboard for your career. I hope it inspires you to chase your dream and equips you with the tools you need to become a great Product Manager.
 
-If you see something, please consider [contributing](prelude/contribute.md) to improve this guide.
+If you see something, please consider [contributing](../guidebook/contribute.md) to improve this guide.
