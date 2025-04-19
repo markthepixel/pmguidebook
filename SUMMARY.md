@@ -7,6 +7,7 @@
 * [A Note From The Author](<README (1).md>)
 * [How To Use This Guide](prelude/how-to-use-this-guide.md)
 * [Contribute Content](prelude/contribute.md)
+* [How to Donate](prelude/how-to-donate.md)
 
 ## Introduction
 

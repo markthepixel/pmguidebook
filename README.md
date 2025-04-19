@@ -14,7 +14,7 @@ layout:
 
 # Welcome
 
-## Welcome to the Product Manager's Skill Guide!
+## Welcome to the Product Manager's Guidebook!
 
 This guide is designed to walk you through the _main skills_ required to be a great Product Manager (PM).
 
@@ -22,7 +22,11 @@ By reading through (or skipping around), you'll get a taste of everything that g
 
 **By no means is this guide perfect** — There is no right or wrong here. As you'll quickly find, there's a many schools of thought around Product Management. Additionally, how the Product Manager role works across various companies and industries changes. It's best to think of this guide as the perfect overview and jumping off point for the various skills required in Product Management.&#x20;
 
+### Giveback
+
 If you see a grammatical mistake, feel there's a better approach, or see something that's missing, I encourage you to visit the [Contributions](prelude/contribute.md) page to help update the content.
+
+If you find this guide helpful, please consider making a donation. This was a labor of love—intended to be open source and continuously evolving. While it's free to use, I’ve poured hundreds of hours into creating it, so your support is genuinely appreciated.
 
 ### Guide Sections
 
