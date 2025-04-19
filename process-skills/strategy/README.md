@@ -1,0 +1,3 @@
+# Strategy
+
+Strategy in product management refers to the high-level plan that describes what a business hopes to accomplish with its product and how it plans to do so. This includes understanding the market for the product, the specific needs it will address, the product's key differentiators or unique selling proposition, and the company's business goals for the product. A well-defined strategy provides clarity for the company, helps prioritize the product roadmap, and improves the team's tactical decisions. It serves as a bridge between the product vision and the tactical steps to fulfill that mission.
