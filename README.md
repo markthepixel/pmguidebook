@@ -16,7 +16,7 @@ layout:
 
 ## Welcome to the Product Manager's Guidebook!
 
-This guide is designed to walk you through the _main skills_ required to be a great Product Manager (PM).
+The free & open source guide that is designed to walk you through the _main skills_ required to be a great Product Manager (PM).
 
 By reading through (or skipping around), you'll get a taste of everything that goes into being a PM. Each section is simple enough to understand the purpose of the skill, while also giving you quick links to go and do your own additional research.
 
