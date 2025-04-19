@@ -10,6 +10,8 @@ After each ‘Example’, you'll find a section on potential ‘Pain Points’. 
 
 Next, you'll find a ‘Practical Exercise’. I strongly encourage you to take these exercises seriously. Spend at least 10 minutes on each one, even if it seems straightforward. These exercises are designed to help you apply the concepts you've learned.
 
-Finally, each topic concludes with a list of ‘Related Research Topics’. These are keywords and phrases that can guide your further learning. We've added search links for each of these terms and appended "as a Product Manager" to them for more targeted results.
+Finally, each topic concludes with a list of ‘Related Research Topics’. These are keywords and phrases that can guide your further learning. There is also search links for each of these terms with an appended "as a Product Manager" to them for more targeted results.
 
-Remember, there's no right or wrong way to use this guide. It's designed to be a flexible resource that you can return to time and time again. Whether you're skimming for a quick overview, diving deep into a specific topic, or looking up advice for a situation you're facing in your role, this guide is here to support you on your product management journey.
+**Remember, there's no right or wrong way to use this guide.** It's designed to be a flexible resource that you can return to time and time again. Whether you're skimming for a quick overview, diving deep into a specific topic, or looking up advice for a situation you're facing in your role, this guide is here to support you on your product management journey.
+
+Lastly, if you see something, please consider [contributing](contribute.md) to improve this guide.

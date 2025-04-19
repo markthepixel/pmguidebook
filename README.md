@@ -5,7 +5,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -26,7 +26,7 @@ By reading through (or skipping around), you'll get a taste of everything that g
 
 If you see a grammatical mistake, feel there's a better approach, or see something that's missing, I encourage you to visit the [Contributions](prelude/contribute.md) page to help update the content.
 
-If you find this guide helpful, please consider making a donation. This was a labor of love—intended to be open source and continuously evolving. While it's free to use, I’ve poured hundreds of hours into creating it, so your support is genuinely appreciated.
+If you find this guide helpful, please consider making a [Donation](https://donate.stripe.com/5kAbK3bqOeekgqkaEI). This was a labor of love—intended to be open source and continuously evolving. While it's free to use, I’ve poured hundreds of hours into creating it, so your support is _genuinely appreciated_.
 
 ### Guide Sections
 

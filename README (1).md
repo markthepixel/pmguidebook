@@ -1,6 +1,6 @@
 # A Note From The Author
 
-Hello I am Mark Progano. Over the past 4+ years, I have had the privilege of mentoring new and aspiring Product Managers. Throughout this journey, I've observed a significant gap in the resources available to those seeking to excel in this dynamic and challenging role. While there are countless courses and guides on how to land a job as a Product Manager, few delve into the core skills required to thrive in the role. Even fewer provide detailed, real-world examples that illuminate these skills in action.
+Hello I am [Mark Progano](https://mprogano.com). Over the past 4+ years, I have had the privilege of mentoring new and aspiring Product Managers. Throughout this journey, I've observed a significant gap in the resources available to those seeking to excel in this dynamic and challenging role. While there are _countless_ courses and guides on how to land a job as a Product Manager, few delve into the core skills required to thrive in the role. Even fewer provide detailed, _real-world examples_ that illuminate these skills in action.
 
 This guide is my response to that gap and is designed to go beyond the interview preparation and job-hunting advice that saturates the market. Instead, it focuses on the full spectrum of skills that underpin successful product management. From strategic thinking to cross-functional collaboration, from customer understanding to data-driven decision-making, this guide explores the multifaceted nature of the Product Manager's role.
 
