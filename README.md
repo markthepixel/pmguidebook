@@ -32,7 +32,7 @@ If you find this guide helpful, please consider making a [Donation](https://dona
 
 Not including the Prelude, the PM's Skill Guide guide is broken down into four major Categories filled with Section and Topics. The Topic pages give you the breakdown of the skill, while the Sections helps to organize everything for recall.
 
-* [Prelude – Author Note & How To Use](broken-reference/)
+* [Prelude – Author Note & How To Use](prelude/author-note.md)
 * [Introduction to Product Management](intro-to-product-management/overview.md)
 * [People: Influence Without Authority](people-skills/overview.md)
 * [Process: Effective Product Management](process-skills/overview.md)
