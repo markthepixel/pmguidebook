@@ -22,11 +22,23 @@ By reading through (or skipping around), you'll get a taste of everything that g
 
 **By no means is this guide perfect** — There is no right or wrong here. As you'll quickly find, there's a many schools of thought around Product Management. Additionally, how the Product Manager role works across various companies and industries changes. It's best to think of this guide as the perfect overview and jumping off point for the various skills required in Product Management.
 
-### Giveback
+
+
+### Contribute Content
 
 If you see a grammatical mistake, feel there's a better approach, or see something that's missing, I encourage you to visit the [Contributions](guidebook/contribute.md) page to help update the content.
 
-If you find this guide helpful, please consider making a [Donation](https://donate.stripe.com/5kAbK3bqOeekgqkaEI). This was a labor of love—intended to be open source and continuously evolving. While it's free to use, I’ve poured hundreds of hours into creating it, so your support is _genuinely appreciated_.
+
+
+### Giveback
+
+**If you find this guide helpful, please consider making a** [**Donation**](https://donate.stripe.com/5kAbK3bqOeekgqkaEI)**.**&#x20;
+
+This was a labor of love—intended to be open source and continuously evolving. While it's free to use, We’ve poured hundreds of hours into creating it, so your support is genuinely appreciated.
+
+And if you'd like to show some <mark style="color:red;">love</mark>, please consider **starring the repo** on Github ⇒ [**View Repo**](https://github.com/markthepixel/pmguidebook)**.**
+
+
 
 ### Guide Sections
 
