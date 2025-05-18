@@ -1,0 +1,3 @@
+# PM Deliverables
+
+Deliverables are the key outputs that reflect your product management process in a side project. This includes user stories, product requirement documents (PRDs), wireframes, MVP definitions, and feedback summaries. Each deliverable helps you clarify your goals, communicate your vision, and track your progress. They should be detailed enough to guide your work, but flexible enough to adapt as you learn. By producing clear deliverables, you build a strong foundation for your project and show your ability to think and work like a product manager.

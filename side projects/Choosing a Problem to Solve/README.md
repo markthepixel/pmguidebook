@@ -1,0 +1,3 @@
+# Choosing a Problem to Solve
+
+Choosing the right problem is the first step in building a valuable side project as a product manager. This means observing your environment, identifying real user pain points, and selecting a challenge that is both meaningful and actionable. A well-defined problem statement helps you focus your efforts, guides your research, and shapes your solution. It should be specific enough to address a real need, but broad enough to allow for creative approaches. By starting with a clear problem, you set a strong foundation for your project and demonstrate your product thinking skills.
