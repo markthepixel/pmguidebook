@@ -1,0 +1,3 @@
+# Types of Side Projects
+
+There are many types of side projects you can pursue as a product manager, each offering unique opportunities to build and showcase your skills. These can include case studies, product teardowns, prototypes, process improvements, or even launching a simple app. Each type allows you to practice different aspects of product management, from research and analysis to design and execution. By exploring various project types, you can find what interests you most and develop a well-rounded PM portfolio.

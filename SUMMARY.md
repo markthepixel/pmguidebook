@@ -104,3 +104,23 @@
   * [Long-Term Planning](knowledge-skills/business-understanding/long-term-planning.md)
   * [Business Model Fit](knowledge-skills/business-understanding/business-model-fit.md)
   * [Monetization Strategy](knowledge-skills/business-understanding/monetization-strategy.md)
+
+## Side Projects
+
+* [Overview](side%20projects/overview.md)
+* [Types of Side Projects](side%20projects/Types%20of%20Side%20Projects/README.md)
+  * [Case Studies](side%20projects/Types%20of%20Side%20Projects/Case%20Studies.md)
+  * [Product Teardowns](side%20projects/Types%20of%20Side%20Projects/Product%20Teardowns.md)
+  * [Prototypes & MVPs](side%20projects/Types%20of%20Side%20Projects/Prototypes%20%26%20MVPs.md)
+  * [Launching a Simple App or Tool](side%20projects/Types%20of%20Side%20Projects/Launching%20a%20Simple%20App%20or%20Tool.md)
+* [Choosing a Problem to Solve](side%20projects/Choosing%20a%20Problem%20to%20Solve/README.md)
+  * [Observing Your Environment](side%20projects/Choosing%20a%20Problem%20to%20Solve/Observing%20Your%20Environment.md)
+  * [Identifying User Pain Points](side%20projects/Choosing%20a%20Problem%20to%20Solve/Identifying%20User%20Pain%20Points.md)
+  * [Problem Validation](side%20projects/Choosing%20a%20Problem%20to%20Solve/Problem%20Validation.md)
+  * [Research Methods](side%20projects/Choosing%20a%20Problem%20to%20Solve/Research%20Methods.md)
+* [PM Deliverables](side%20projects/PM%20Deliverables/README.md)
+  * [Product Vision](side%20projects/PM%20Deliverables/Product%20Vision.md)
+  * [User Stories](side%20projects/PM%20Deliverables/User%20Stories.md)
+  * [Product Requirement Documents (PRDs)](side%20projects/PM%20Deliverables/Product%20Requirement%20Documents%20(PRDs).md)
+  * [Wireframes](side%20projects/PM%20Deliverables/Wireframes.md)
+  * [MVP Definitions](side%20projects/PM%20Deliverables/MVP%20Definitions.md)
