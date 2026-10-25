@@ -6,7 +6,7 @@ A Product Manager's responsibilities encompass strategy, execution, and cross-fu
 
 At a high level, the PM at a website builder company, such as Squarespace, your responsibilities would likely include understanding customer needs, defining product vision and strategy, working closely with engineering, data, and design teams to deliver the product, and coordinating with marketing and sales teams for product launch.
 
-A day in the life of a Product Manager varies depending on the product's lifecycle stage. Typically, the PM meets with stakeholders to provide updates, address questions, and gather feedback on the ongoing feature development. They constantly communicate with their cross-functional team to tackle any blockers in design and development and drive progress toward the product vision. Lastly, they regularly connect with users through direct interviews, surveys, and product analytics to ensure the smooth functioning of existing features.
+A day in the life of a Product Manager varies depending on the product's lifecycle stage. Typically, the PM meets with stakeholders to provide updates, address questions, and gather feedback on the ongoing feature development. They constantly communicate with their cross-functional team to tackle any blockers in design and development and drive progress toward the product vision. They may also analyze a set of customer observations or build a small experiment themselves. For the website builder, that could be a working flow for choosing and previewing a template, reviewed with the designer and engineers before testing it with users. Lastly, they regularly connect with users through direct interviews, surveys, and product analytics to ensure the smooth functioning of existing features.
 
 ## Pain Points
 

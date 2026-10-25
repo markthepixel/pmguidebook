@@ -8,6 +8,8 @@ Consider a Product Manager at a remote-first company like Hubspot or Instacart. 
 
 The Product Manager establishes a regular cadence for these interactions, such as daily stand-ups, weekly planning meetings, backlog grooming, and monthly retrospectives. This combination of regular cadence and effective use of collaboration tools helps the team work together effectively, despite being distributed across different time zones.
 
+When the team is exploring an idea, the PM can share a working prototype for asynchronous review rather than schedule a meeting for every change. They include the version, the task to try, and the question they need answered, using safe sample data and appropriate view or comment access. Reviewers can point to the state they encountered, including failures, instead of discussing different versions from memory. The PM records the resulting decision and owner in the team's shared record. Questions that need discussion can then go into the existing meeting cadence.
+
 ## Pain Points
 
 Balancing the need for regular communication with the risk of meeting fatigue can be challenging. It's also important to choose collaboration tools that meet your team's needs and are used effectively by all members. Not all teams will collaborate using the same tools or cadences, which makes discussions between them difficult (e.g. Biz Dev Team uses Asana and Product Team uses Jira to track tasks).

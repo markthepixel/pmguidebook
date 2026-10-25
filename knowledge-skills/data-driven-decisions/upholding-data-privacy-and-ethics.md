@@ -10,6 +10,8 @@ The PM then works with the data and engineering teams to ensure that all data co
 
 Internally, the PM advocates for data minimization, encouraging the team to collect only the data necessary for the feature's functionality. They also institute access controls to ensure that only authorized personnel can access sensitive user data. Regular training is conducted for the team on best practices in data handling and privacy.
 
+These checks also apply to the working material used to understand the feature. Before uploading interview notes, support records, or an analytics export to an external tool, the PM confirms that the organization permits that service and purpose. They remove unnecessary identifiers, check who can access the input and output, and review the workspace's training, retention, and deletion settings with the appropriate team. Removing names or turning off model training does not, by itself, make the upload authorized or eliminate retention. The PM shares only the evidence needed for the decision and follows the agreed handling rules for the working files.
+
 Externally, the PM ensures that the product's design includes privacy by design principles, making data protection an integral part of the user experience. This includes implementing features that give users transparency and control, such as easy-to-navigate privacy settings and clear indications of when data is being collected.
 
 ## Pain Points
@@ -18,7 +20,7 @@ Product Managers often face challenges in balancing the drive for innovative fea
 
 ## Practical Exercise
 
-Develop a plan for a new feature in your product that will use user data. Outline the steps you would take to ensure compliance with privacy laws, how you would implement data protection measures, and the methods you would use to educate your team and users about data privacy and ethics.
+Develop a plan for a feature that uses user data. Include both the shipped feature and the research or analysis files used to develop it. What data is necessary, where may it be processed, who may access it, and when should it be deleted? Identify the legal, security, or privacy questions you need help resolving.
 
 ## Related Research Topics
 

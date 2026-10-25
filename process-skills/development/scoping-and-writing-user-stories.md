@@ -6,13 +6,15 @@ While User Stories are the most popular, they’re not the only method. There ar
 
 ## Example
 
-Let's continue with the professional networking example. After the PRD and designs for the "Enhanced Job Filtering" feature have been finalized, the Product Manager now needs to guide the development of this feature. The team uses the Agile methodology, which includes the use of user stories to define the tasks that need to be completed.
+Let's continue with the professional networking example. The Product Manager and team are defining the scope of the "Enhanced Job Filtering" feature using the requirements, designs, and what they have learned from testing. The team uses the Agile methodology, which includes the use of user stories to define the tasks that need to be completed.
 
 The Product Manager, in collaboration with the Product Designer and input from the Engineering Manager, begins to write user stories for the "Enhanced Job Filtering" feature. For instance, one of the user stories could be: "As a job seeker, I want to filter job postings by location so that I can find jobs near me". Another user story might be: "As a job seeker, I want to filter job postings at companies with mutual connections so that I can find opportunities with people I already know".
 
 These user stories help to define the scope of the feature and provide a clear understanding of what needs to be developed from the user's perspective. They also help to prioritize the development tasks and to ensure that the feature meets the user's needs and expectations.
 
-It’s at this point, there’s a hand-off from the Product Manager, who manages the product and feature direction, and the Engineering Manager (EM), who manages the engineers and their engineering tasks. The EM would go on to write out the engineering tasks related to each story, which are commonly sub-tasks of the Story, clarifying any confusion with the Product Manager and Product Designer.
+The team also agrees how they will know a story works. For the location filter, this could include keeping the selected location when another filter is added, showing an understandable empty state, and allowing the user to clear the selection. These acceptance criteria give the team concrete behaviors to check, whether the first version was built by an engineer or explored by the PM in a prototype.
+
+The Product Manager manages the product and feature direction, while the Engineering Manager (EM) manages the engineers and their engineering tasks. They review the scope together with the Product Designer, including any prototype, untested assumptions, and technical dependencies. The EM and engineers break the work into engineering tasks, which are commonly sub-tasks of the Story, clarifying questions with the PM and designer as the work progresses.
 
 ## Pain Points
 

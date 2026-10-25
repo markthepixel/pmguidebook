@@ -4,13 +4,13 @@ Working with product designers involves collaborating closely with these profess
 
 ## Example
 
-Imagine you're a Product Manager at a social media company, like Facebook. You're working on a new feature that allows users to customize their profile layout. You've written the PRD and now it's time to work with the product designer to bring this feature to life.
+Imagine you're a Product Manager at a social media company, like Facebook. You're working on a new feature that allows users to customize their profile layout. You bring the problem, draft requirements, and a rough layout experiment to the product designer so you can explore the feature together. The experiment gives you something to discuss, without committing the team to its design or implementation.
 
-In your initial meeting with the product designer, you discuss the feature's objectives and requirements. The designer suggests using a drag-and-drop interface to allow users to easily customize their profile layout. They explain that this approach is intuitive and user-friendly, and it has been successful in other products.
+In your initial meeting with the product designer, you discuss the feature's objectives and requirements. The designer suggests exploring a drag-and-drop interface alongside controls for moving items without dragging. Together, you try the options on a small screen and with a keyboard, considering how people will understand and use them.
 
 However, you're concerned about the technical feasibility of this approach and the potential impact on the page load time. The designer acknowledges your concerns and suggests conducting a design spike — a time-boxed period where they will explore the technical implications of the drag-and-drop interface and create a prototype.
 
-After the design spike, the designer shares their findings. They've found a way to implement the drag-and-drop interface without significantly impacting the page load time. They've also created a prototype that you can test with users. Through this collaborative process, you've been able to address your concerns while also leveraging the designer's expertise to create a user-friendly feature.
+After the design spike, the designer shares a prototype that you can test with users. The engineering team checks the proposed interaction against the existing page and measures its effect on load time. You compare those findings with what users can actually complete, then refine the design together. Through this collaborative process, you've been able to investigate your concerns while also leveraging the designer's expertise.
 
 ## Pain Points
 

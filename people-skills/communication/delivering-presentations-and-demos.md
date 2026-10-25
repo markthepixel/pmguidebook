@@ -6,9 +6,9 @@ Delivering presentations and demos involves presenting information or showcasing
 
 Consider a Product Manager at a computer hardware company, such as Apple, who is tasked with presenting a new smartphone feature, "Tap to Share Contact Info," to stakeholders. The Product Manager prepares a comprehensive presentation highlighting the new feature's benefits, such as ease of use and time efficiency, its market potential, and how it aligns with the company’s strategic goals of enhancing user experience and staying ahead of competitors.
 
-To prepare the demo, the Product Manager collaborates with the design and engineering teams to ensure the feature is feasible. They plan a user journey that showcases how the feature works - from tapping the contact info to sharing it with another user. They also anticipate potential questions from stakeholders, such as privacy concerns and compatibility issues, and prepare responses in advance.
+To prepare the demo, the Product Manager collaborates with the design and engineering teams to understand what can actually be demonstrated. They plan a user journey from selecting contact info to sharing it with another user, identifying which steps work, which are simulated, and which have not been built. A web prototype can illustrate the flow, but it does not prove that information transfers between phones. That requires testing on the relevant devices and platforms. They also anticipate questions about privacy and compatibility, distinguishing verified behavior from unresolved assumptions.
 
-During the presentation, the Product Manager walks the stakeholders through the demo, explaining each step of the user journey. They highlight how the feature enhances the user experience and sets the company apart from its competitors. The combination of the presentation and demo helps the stakeholders visualize the feature's value, increasing the likelihood of gaining their support.
+During the presentation, the Product Manager walks the stakeholders through the demo, explaining each step of the user journey and the problem it is intended to address. They also show what happens when sharing is declined or fails. They explain what the demonstration establishes and what still needs testing, so stakeholders can discuss the next decision without mistaking the demo for a release-ready feature.
 
 ## Pain Points
 
@@ -16,7 +16,7 @@ Creating engaging presentations and demos can be challenging, especially when de
 
 ## Practical Exercise
 
-Choose a feature of your product. How would you present it to a non-technical audience? Consider the key points you would highlight, how you would explain its functionality, and how you would demonstrate its value.
+Choose a feature of your product. How would you present it to a non-technical audience? Plan a short demonstration of one task and a failure case. Identify what works, what is simulated, and what remains unknown. What decision should the audience be able to make afterward?
 
 ## Related Research Topics
 

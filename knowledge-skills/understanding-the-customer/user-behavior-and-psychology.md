@@ -12,7 +12,7 @@ Furthermore, adventure seekers like Olivia tend to be creative and independent t
 
 Finally, adventure seekers are often willing to take physical or social risks for the sake of unique and intense experiences. This means that Olivia might be more open to trying new technologies or features that other customers might find intimidating or unnecessary. For instance, she might be interested in advanced off-road technologies or innovative sustainability features that set Rivian's vehicles apart from traditional cars.
 
-Understanding these aspects of Olivia's behavior and psychology can help us make better product decisions and create a product that truly resonates with her.
+These interpretations suggest hypotheses to investigate with actual customers. The persona's description does not establish that adventure seekers want each proposed feature or would pay for it. Compare the ideas with observed choices and recent experiences before using them to make product decisions.
 
 ## Pain Points
 

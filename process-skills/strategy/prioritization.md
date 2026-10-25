@@ -12,6 +12,8 @@ The in-app chat with riders is expected to reach only a subset of drivers who fr
 
 The new earnings screen is expected to reach all drivers (high reach), have a high impact on their understanding of their earnings (high impact), and there's high confidence in these estimates based on driver surveys. The effort is moderate as it requires backend data work and frontend UI design.
 
+Before settling the scores, the PM distinguishes the effort to learn from the effort to release. They could explore the earnings dashboard with sample data and ask drivers to interpret it before building the live data connections. That test may change their confidence in the idea, but it does not remove the work of securing earnings data, handling errors, or supporting the feature. They review those estimates with the team rather than using the speed of a prototype as the production estimate.
+
 After calculating the RICE scores for each feature, the Product Manager finds that the new earnings dashboard has the highest score, followed by the enhanced navigation system, and then the in-app chat. This helps the Product Manager make a data-driven decision to prioritize the development of the new earnings dashboard, while also providing a clear rationale to communicate to stakeholders.
 
 ## Pain Points

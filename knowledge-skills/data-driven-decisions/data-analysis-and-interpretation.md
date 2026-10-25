@@ -6,11 +6,11 @@ Data analysis and interpretation involves examining and cleaning data, applying 
 
 Continuing with the YouTube example, let's say you're a Product Manager and you've noticed a drop in the average watch time of videos. You start by gathering data from various sources like user surveys, user behavior data, and product analytics.
 
-After cleaning and organizing the data, you apply statistical techniques to identify patterns and trends. You notice that the drop in watch time is more significant among users aged 18-24. You also find that these users are watching more short-form videos (less than 10 minutes) compared to long-form videos.
+You define the question before choosing an analysis: has average watch time per video view fallen among users aged 18-24, and does the pattern differ by video length? You use an approved export for comparable date ranges, checking the meaning of each column, missing values, and duplicate records. A spreadsheet, SQL query, or a tool such as ChatGPT can help calculate the comparison and create a chart. If you use generated analysis, inspect the calculation and assumptions, check that the intended rows were included, and reconcile a few totals independently. Keep the method and data transformations so the result can be checked or repeated.
 
-To interpret these findings, you consider the context. You know that short-form videos have been gaining popularity, and your competitor platforms have been promoting their short-form content. You hypothesize that users might be preferring short-form content due to their busy schedules or shorter attention spans.
+Suppose the comparison shows a larger drop among users aged 18-24 and more views of short-form videos (less than 10 minutes). To interpret these findings, you consider the context, including changes in the content available and how videos are recommended. The pattern does not explain why people changed their viewing. You compare completion rates for similar video lengths and talk with users before attributing the change to preferences, schedules, or attention.
 
-Based on this interpretation, you might decide to promote more short-form content on your platform or introduce features that enhance the viewing experience for short-form videos.
+Based on this investigation, you might test promoting more short-form content or improving the viewing experience for it. You work with an analyst when the comparison or statistical method needs deeper review, and evaluate the test against the user and business outcome rather than the chart alone.
 
 ## Pain Points
 
@@ -18,7 +18,7 @@ Data can often be messy and time-consuming to clean and organize, which can slow
 
 ## Practical Exercise
 
-Try to analyze some data related to a product or service you use. It could be as simple as your usage patterns of a social media platform. What patterns or trends can you identify? How would you interpret these findings in the context of the product?
+Choose a small dataset you are allowed to use, such as your own usage history. Define one question and calculate a comparison. Check missing records and a few totals, then explain what the result shows and what remains uncertain. What additional evidence would help you interpret it?
 
 ## Related Research Topics
 

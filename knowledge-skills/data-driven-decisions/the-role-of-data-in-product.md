@@ -10,9 +10,9 @@ You start by identifying the key metrics that matter to your product. For instan
 
 Next, you work with your engineering or data team to set up data tracking and reporting systems. You use tools like Google Analytics, Heap, or MixPanel to track user behavior on your platform and data visualization tools like Looker, Hex, or Mode to present the data in an easy-to-understand format.
 
-You also conduct regular data analysis to uncover insights about your users. For instance, you might discover that 90% of shoppers say they've discovered new products and brands on YouTube or that 7 in 10 YouTube viewers use the platform to help with problems with their work, studies, or hobbies. These insights can help you understand your users better and inform your product strategy.
+You also conduct regular data analysis to uncover insights about your users. For instance, you might investigate how viewers discover products or use videos to help with work, studies, or hobbies. Before relying on a finding, check its source, which users it covers, when it was collected, and what was actually measured. These insights can help you understand your users better and inform your product strategy.
 
-However, it's important to remember while data is pure fact, it’s easy to jump to conclusions or imagine trends that might not exist. As a Product Manager, your role is to balance all the various types of inputs and make the best decisions for your product and your users.
+However, data can contain collection errors, gaps, and biases, and it’s easy to jump to conclusions or imagine trends that might not exist. As a Product Manager, your role is to balance all the various types of inputs and make the best decisions for your product and your users.
 
 ## Pain Points
 

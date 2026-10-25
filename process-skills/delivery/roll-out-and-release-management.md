@@ -6,6 +6,8 @@ Roll-out and release management involves planning, coordinating, and executing t
 
 Imagine you're a Product Manager at a scooter rental company, like Bird. You've been working on a new feature that allows users to reserve a scooter in advance. After months of development and testing, the feature is ready to be released. You begin by planning the roll-out strategy. You decide to do a phased roll-out, starting with a small group of users in a single city to monitor the feature's performance and gather initial user feedback. You coordinate with the engineering team to ensure the feature is ready for release and with the marketing team (or product marketing team) to plan the announcement and promotion of the new feature. You also work with the customer support team to prepare them for any potential user questions or issues related to the new feature.
 
+Before releasing it, you and the team check that a reservation actually persists, another user cannot book the same scooter, and cancellation makes it available again. You test what happens when a payment or network request fails, and check the reservation flow with keyboard and screen-reader users. The team agrees which errors or customer complaints would pause the roll-out, who will monitor them, and how to disable the feature safely. A prototype that demonstrates the reservation screen is useful for discussion, but it does not establish that these paths work.
+
 Once the feature is released, you monitor its performance closely, looking at metrics such as the number of reservations made, user satisfaction, and any reported issues. You gather user feedback and use this information to make any necessary adjustments before rolling out the feature to more users and additional cities.
 
 ## Pain Points

@@ -6,17 +6,17 @@ While there’s multiple types and iterations of these methodologies, it’s imp
 
 ## Example
 
-Let's continue with the professional networking example. After finalizing the PRD and designs for the "Enhanced Job Filtering" feature mentioned in the “Designing The Feature” section, the PM now needs to guide the development of this feature. Their team uses the Agile methodology, which allows for iterative development and frequent feedback. This methodology allows the team to quickly test different filtering options and adjust based on user feedback.
+Let's continue with the professional networking example. As the requirements and designs for the "Enhanced Job Filtering" feature become clearer, the PM works with the team to guide its development. Their team uses the Agile methodology, which allows for iterative development and frequent feedback. This methodology allows the team to test different filtering options and adjust based on user feedback.
 
 The Product Manager works closely with the development team to break down the various aspects of the feature from the PRD and design into smaller, manageable tasks, which are then organized into epics and sprints. An epic is a large body of work that can be broken down into a number of smaller tasks, or stories. For example, there might be an epic focused on updating the website interface to work with the new search functionality and a second epic to update the backend to search the database using the new filters.
 
 Sprints are typically two weeks long, which is long enough for a developer to finish a meaningful amount of work and short enough to be able to commit fully to completing the outlined task. Depending on the size and complexity of the feature, it could take multiple sprints to complete all of the engineering tasks required to finish.
 
-For the “Enhanced Job Filtering” feature, it would be divided into 2 epics and take a total of 3 sprints (or 6 weeks). The team would then have a code complete version of the feature that would be tested and reviewed.
+For the “Enhanced Job Filtering” feature, the team might estimate 2 epics and a total of 3 sprints (or 6 weeks). During each sprint, they test working increments against agreed behaviors, such as combining filters and handling an empty result. They review the actual results alongside the code, rather than waiting until every engineering task is complete to find out whether the flow works. A working prototype can inform this scope, but its speed of creation does not determine the time needed for integration and release.
 
 Throughout the development process, the Product Manager attends daily stand-up meetings with the team to track progress, address issues, and make necessary adjustments. As a team, they use tools like Linear or Jira to manage tasks and track progress, and Slack for communication.
 
-At this point, the PRD is generally considered to be stale and the source-of-truth is within the engineering tasks and designs. Though the PRD will likely have the best explanation of the core problem being solved.
+The PRD, engineering tasks, designs, and tests need to stay consistent about the problem and intended behavior. The PM keeps the requirements and important decisions current, linking to implementation detail rather than duplicating every task. If a test changes the team's understanding of a filter, that decision should be reflected where the next person will rely on it.
 
 ## Pain Points
 

@@ -16,7 +16,7 @@ Through continuous iteration and validation, the PM steers the product towards a
 
 ## Practical Exercise
 
-Within the industry you chose in the previous exercise, select a widely-used app or service and identify its typical users. Gather feedback from friends or online forums to pinpoint common issues and needs. Suggest practical improvements, such as refining the app's search function or customizing order selections. Measure potential success by the hypothetical increase in user satisfaction or repeat usage.
+Within the industry you chose in the previous exercise, select a widely-used app or service and identify its typical users. Gather feedback from relevant users, including friends or online forums where appropriate, and suggest one practical improvement. Separate the feedback you actually received from the result you expect. How would you test whether satisfaction or repeat usage improves?
 
 ## Related Research Topics
 

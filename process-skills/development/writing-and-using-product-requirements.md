@@ -14,7 +14,7 @@ To address these user needs, you begin to write a Product Requirements Document 
 
 The PRD also includes non-functional requirements, such as performance requirements (e.g., the job search results should load within 2 seconds), security requirements (e.g., user job search data should be encrypted), and accessibility requirements (e.g., the job search feature should be accessible to users with disabilities). The PRD will also include how this will help achieve the company’s objectives, address any possible risks, and outline any open questions or unknowns.
 
-Once the PRD is complete, you share it with the engineering team for their input. They provide feedback on the technical feasibility of the proposed features and suggest modifications based on their expertise. After a few iterations, the PRD is finalized and serves as a guide for the development team as they begin to build the new features for the job search experience on LinkedIn.
+You share the draft requirements with the designer and engineering team while exploring the feature. A working filter flow can sit alongside the PRD, making it easier to discuss what should happen when filters are combined, results are empty, or a request fails. The team agrees on acceptance criteria for these cases and identifies any simulated behavior or missing integration. They provide feedback on technical feasibility and suggest modifications based on their expertise. You update the requirements as tests and implementation reveal new information, keeping the purpose, constraints, decisions, and open questions clear.
 
 ## Pain Points
 

@@ -4,13 +4,13 @@ In product management, transitioning from concept to design involves taking the 
 
 ## Example
 
-Continuing with the LinkedIn example, once the PRD for the "Enhanced Job Filtering" feature is finalized, the PM collaborates with their Product Design Lead to translate the requirements into a tangible design. The design lead (and team) wireframe the new filter interface, taking into account the requirements specified in the PRD such as the need for a more intuitive interface and the inclusion of additional filter options based on user preferences and job requirements.
+Continuing with the LinkedIn example, the PM collaborates with their Product Design Lead to explore the "Enhanced Job Filtering" feature while the requirements are still taking shape. The design lead (and team) wireframe the new filter interface, taking into account the need for a more intuitive interface and additional filter options based on user preferences and job requirements. The PM could also use Figma Make to create a working filter flow with sample job listings, so the team can try selecting, combining, and clearing filters before deciding on a direction.
 
-The Product Manager and Product Design Lead then conduct a series of design reviews, refining the wireframes based on feedback from each other and other stakeholders. They also consider technical constraints provided by the engineering team, ensuring the design is feasible to implement.
+The Product Manager and Product Design Lead then conduct a series of design reviews, refining the wireframes and working flow based on feedback from each other and other stakeholders. They also consider technical constraints provided by the engineering team, including whether the real job data supports the proposed filters. If visual direction is unclear, they might use ChatGPT Images to explore alternatives from an approved reference image. They inspect the results for unintended changes and use them to discuss layout or style; an image cannot demonstrate how a filter behaves.
 
-Once the wireframes are finalized, they are transformed into high-fidelity mockups and prototypes. These are then used for user testing to validate the design and gather feedback. The Product Manager organizes user testing sessions, where potential users are asked to perform tasks using the prototype and provide feedback on their experience.
+The team chooses the level of detail needed for user testing. A sketch may be enough to discuss the information people expect, while a working prototype lets them try a task such as finding a nearby role and changing the search when no results appear. The Product Manager organizes sessions with potential users, observing where they hesitate or fail and asking about their experience. Higher-fidelity mockups are useful when visual detail is part of the question being tested.
 
-Based on the user feedback, the design is further refined until it meets the user needs and product requirements effectively. The finalized design is then handed over to the development team for implementation.
+Based on the user feedback, the design is further refined and the requirements are updated. The PM, designer, and engineers review what was learned and decide what to implement, which parts of the prototype can be reused, and what still needs design or technical work.
 
 ## Pain Points
 
@@ -18,7 +18,7 @@ The transition from concept to design can be challenging as it requires a balanc
 
 ## Practical Exercise
 
-Think of a feature or product you want to develop. Sketch a wireframe for it based on the product requirements. Share it with a colleague or friend and ask for their feedback. How well does your design align with the product requirements? How could it be improved?
+Think of a feature or product you want to develop. Sketch a wireframe or create a small working flow for one task. Ask someone to try the task without your guidance. Where do they hesitate? What would you change, and which assumptions still need testing with the intended users?
 
 ## Related Research Topics
 

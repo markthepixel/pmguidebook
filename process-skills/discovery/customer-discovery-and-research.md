@@ -6,11 +6,13 @@ Customer discovery and research involves understanding your target customers' ne
 
 Let's continue with the Product Manager at the dating app company, like Tinder. After defining the problem of low user engagement, the Product Manager decides to conduct customer discovery and research to better understand the users' needs and behaviors.
 
-The Product Manager starts by analyzing user data from the app. They find that users under the age of 25 are the most active, making up 60% of the user base, and that 65% of all users are male. They also notice that users tend to be more active during the evening hours and that user activity spikes around holidays and weekends.
+The Product Manager starts by analyzing user data from the app. In this example, suppose they find that users under the age of 25 are the most active, making up 60% of the user base, and that 65% of all users are male. They also notice that users tend to be more active during the evening hours and that user activity spikes around holidays and weekends.
 
 To gather more qualitative data, the Product Manager decides to conduct user interviews. They select a diverse group of users, including both highly active users and those who are less active. During the interviews, the Product Manager asks questions about the users' experiences with the app, their likes and dislikes, and any challenges they face while using the app.
 
 From the interviews, the Product Manager learns that many users find the app's matching algorithm to be lacking. Users report that they often get matched with people who don't share their interests or who live too far away. They also find that the chat feature is not user-friendly, making it difficult to keep a conversation going.
+
+To make sense of the interviews, the PM groups observations about matching and chat, keeping each theme linked to the relevant notes or recording. An approved analysis tool can help organize anonymized material, but the PM checks the summaries against what people actually said, including users whose experiences differ. They separate the reported problem from their explanation of its cause and follow up where the evidence is unclear. Generated interview answers can suggest questions to explore; they do not count as customer interviews.
 
 Armed with this information, the Product Manager now has a better understanding of the users' needs and pain points. They can use this knowledge to inform the design and validation of potential solutions.
 

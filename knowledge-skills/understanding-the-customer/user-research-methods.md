@@ -16,7 +16,9 @@ Focus groups could be used to facilitate discussions around specific topics, suc
 
 When preparing your interview questions, it's important to avoid biases and leading questions that could skew the results. For example, instead of asking "Don't you think our new model is better?", you could ask "How does our new model compare to the previous one?".
 
-Finally, usability testing would be crucial once you have a prototype of your electric vehicle. You would observe users interacting with the vehicle, noting any difficulties they encounter and areas for improvement.
+As you gather evidence, you organize the notes around the research questions, keeping a reference to the participant and source for each observation. An approved tool can help summarize supplied records, but you check themes and quotations against the originals and look for contrary examples. Several people mentioning charging concerns in your interviews does not establish how common that concern is across the whole market. Missing perspectives become questions for further research, not invented responses to fill the gaps.
+
+Usability testing can begin with the part of the experience you need to understand. For a dashboard control, you might create a small interactive flow and observe drivers trying a task before building a complete vehicle prototype. Later tests with the vehicle are still needed for physical interaction and driving context. You note what users actually do, where they encounter difficulties, and which questions the test cannot answer.
 
 ## Pain Points
 
@@ -24,7 +26,7 @@ User research methods can be time-consuming and require a significant amount of 
 
 ## Practical Exercise
 
-Choose a product or service that you use regularly. Identify a user research method that you think would be most effective in improving this product or service. Write down a plan for how you would implement this research method, including the objectives of the research, the questions you would ask, and how you would analyze the results.
+Choose a product or service you use regularly. Identify a research question and a method suited to it. Plan whom to involve and what to observe or ask. How will you link conclusions to the evidence, check conflicting observations, and decide what needs further research? Use only material you have permission to collect and process.
 
 ## Related Research Topics
 

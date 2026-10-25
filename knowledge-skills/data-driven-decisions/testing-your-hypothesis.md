@@ -4,13 +4,13 @@ Testing hypotheses in product management is a critical phase where theories meet
 
 ## Example
 
-The YouTube Product Manager plans to test the hypothesis that personalized learning paths will increase user session lengths. To commence, they must first define the scope and parameters of the A/B test. With YouTube's extensive user base, the PM opts for a sizable yet statistically reasonable sample to ensure the results are meaningful without impacting the platform's overall performance.
+The YouTube Product Manager plans to test the hypothesis that personalized learning paths will increase user session lengths. To commence, they must first define the scope and parameters of the A/B test. With the analyst and engineers, the PM defines eligible users, how they will be assigned to groups, and which events will measure the outcome. They check that the instrumentation records the intended behavior before interpreting any result.
 
-The test group will experience the new personalized learning paths, while the control group will interact with the existing interface. The PM decides on a testing period that balances obtaining robust data with the agility of responding to insights—four weeks is chosen, allowing for variations in weekly user behavior to manifest.
+The test group will experience the new personalized learning paths, while the control group will interact with the existing interface. The team chooses a sample size and testing period based on the expected usage, the change they need to detect, and the time needed to observe it. These choices are recorded with the hypothesis and evaluation plan before the test begins.
 
-Before the test begins, the PM outlines the success criteria: an increase in the average session length by at least 5% would validate the hypothesis. Additionally, a secondary measure—the engagement actions per session—will be observed to ensure the new feature is not only retaining users longer but also encouraging more interaction.
+Before the test begins, the PM outlines the success criteria and how uncertainty in the result will be assessed. Longer sessions and more engagement actions need to be considered alongside lesson completion and learner feedback; users may spend longer because they are struggling. The PM can rehearse the analysis with sample records to check the calculations and dashboard, but those records do not establish how real users will respond.
 
-During the test, the PM sets up a dashboard to monitor key metrics in real-time. They pay close attention not just to the primary and secondary KPIs but also to any ancillary data that might indicate user satisfaction or friction points. The PM remains vigilant for any significant anomalies or user feedback that could necessitate pausing or adjusting the test.
+During the test, the PM uses the dashboard to monitor key metrics in real-time. They pay close attention not just to the primary and secondary KPIs but also to any ancillary data that might indicate user satisfaction or friction points. The team agrees in advance which problems would require a pause. If the feature or test design changes, they record the change and determine whether the experiment needs to restart, rather than combining incompatible results.
 
 Monitoring also includes ensuring that the test doesn't adversely affect overall user experience. For example, if the new feature inadvertently leads to a significant increase in customer support tickets or a drop in overall user satisfaction, the PM might have to reconsider the test's design or execution.
 

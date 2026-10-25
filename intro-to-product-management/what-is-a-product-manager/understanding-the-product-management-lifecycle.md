@@ -8,9 +8,9 @@ Consider a team communication platform, like Slack or Teams. The lifecycle might
 
 You work to define the requirements by asking for input from various departments across the organization and work extra closely with your manager, design manager, and engineering manager to get a first draft. The requirements are later shared with the broader company and leadership for approval and alignment.
 
-After requirements are defined, the next major stage is product design, where key features like a file-sharing UI (user interface) are designed, getting sign-off from key stakeholders and leadership. This stage is the first chance to visualize the feature and typically comes with new assumptions and questions.
+Product design explores key features like a file-sharing UI (user interface). You can visualize and test the feature while defining the requirements, using a sketch or a working flow for selecting and sharing a file. The PM, designer, and engineers review what the flow assumes about permissions and storage, then observe users trying the task. What they learn informs the requirements, design, and stakeholder decisions.
 
-The engineering team then takes over; the PM builds out the projects while the engineering manager outlines the engineering tasks from the requirements. The PM aids the eng teams as they build the first version.
+The engineering team develops the feature while the PM builds out the projects and the engineering manager outlines the engineering tasks. The PM and designer stay involved as implementation and testing reveal new constraints. An early prototype may help explain the intended behavior, but it still needs review before any of its code or integrations are used in the product.
 
 During the launch stage, product marketing, customer support, legal, and other business teams are deeply involved to ensure everything goes smoothly. It’s considered good practice, especially with larger user bases, to launch the product to a limited set of users to validate the feature’s hypothesis, increasing the number of users with validation over time.
 

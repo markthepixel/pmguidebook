@@ -42,10 +42,11 @@ And if you'd like to show some <mark style="color:red;">love</mark>, please cons
 
 ### Guide Sections
 
-Not including the Prelude, the PM's Skill Guide guide is broken down into four major Categories filled with Section and Topics. The Topic pages give you the breakdown of the skill, while the Sections helps to organize everything for recall.
+Not including the Prelude, the PM's Skill Guide is broken down into five major Categories filled with Sections and Topics. The Topic pages give you the breakdown of the skill, while the Sections help to organize everything for recall.
 
 * [Prelude – Author Note & How To Use](prelude/author-note.md)
 * [Introduction to Product Management](intro-to-product-management/overview.md)
 * [People: Influence Without Authority](people-skills/overview.md)
 * [Process: Effective Product Management](process-skills/overview.md)
 * [Knowledge: Research & Analysis](knowledge-skills/overview.md)
+* [Interviewing: Demonstrating Product Judgment](interviewing/overview.md)

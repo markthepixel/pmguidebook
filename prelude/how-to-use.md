@@ -51,7 +51,7 @@ Each topic follows a consistent structure:
 **5. Related Research Topics**
 
 * Curated list of keywords and phrases
-* Each one includes a search link with “as a Product Manager” for targeted exploration
+* Each one includes a search link with “in product management” for targeted exploration
 
 
 

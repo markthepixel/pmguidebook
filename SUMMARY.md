@@ -19,6 +19,7 @@
   * [The Product Mindset](intro-to-product-management/what-is-a-product-manager/the-product-mindset.md)
   * [Understanding the Product Management Lifecycle](intro-to-product-management/what-is-a-product-manager/understanding-the-product-management-lifecycle.md)
   * [Different Types of Product Managers](intro-to-product-management/what-is-a-product-manager/different-types-of-product-managers.md)
+  * [AI Product Manager](intro-to-product-management/what-is-a-product-manager/ai-product-manager.md)
 * [Product Team Structures](intro-to-product-management/product-team-structures/README.md)
   * [Stakeholders, Leadership, and the Company](intro-to-product-management/product-team-structures/stakeholders-leadership-and-the-company.md)
   * [Cross-Functional Product Team](intro-to-product-management/product-team-structures/cross-functional-product-team.md)
@@ -104,3 +105,15 @@
   * [Long-Term Planning](knowledge-skills/business-understanding/long-term-planning.md)
   * [Business Model Fit](knowledge-skills/business-understanding/business-model-fit.md)
   * [Monetization Strategy](knowledge-skills/business-understanding/monetization-strategy.md)
+
+## Interviewing
+
+* [Overview](interviewing/overview.md)
+* [Preparation](interviewing/preparation/README.md)
+  * [Preparing for Product Manager Interviews](interviewing/preparation/preparing-for-product-manager-interviews.md)
+  * [Practicing and Evaluating Opportunities](interviewing/preparation/practicing-and-evaluating-opportunities.md)
+* [Interview Formats](interviewing/interview-formats/README.md)
+  * [Product Sense and Design](interviewing/interview-formats/product-sense-and-design.md)
+  * [Analytical Thinking and Metrics](interviewing/interview-formats/analytical-thinking-and-metrics.md)
+  * [Behavioral and Leadership Questions](interviewing/interview-formats/behavioral-and-leadership-questions.md)
+  * [Strategy and Technical Discussions](interviewing/interview-formats/strategy-and-technical-discussions.md)
